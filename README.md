@@ -1,5 +1,4 @@
 # Chat with Multiple PDFs
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/GarvGangwani/Chat-with-multi-pdfs)
 
 This project is a Streamlit web application that allows you to chat with multiple PDF documents. It uses a Retrieval-Augmented Generation (RAG) pipeline to extract relevant information from your documents and generate conversational responses. The backend is powered by the high-speed Groq API for language model inference, FAISS for efficient similarity search, and Hugging Face for sentence embeddings.
 
